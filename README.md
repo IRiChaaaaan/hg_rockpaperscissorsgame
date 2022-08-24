@@ -1,0 +1,2 @@
+# hg_rockpaperscissorsgame
+Unityを教える際に作成したじゃんけんゲームです。
